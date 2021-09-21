@@ -15,9 +15,17 @@ main{
     width: 50%;
 }
 div{
-    background-color: darkslateblue;
+    background-color: rgb(189, 189, 189);
     width: 50%;
 }
 h1{
     color: darkgoldenrod;
+}
+.tutorial > p{
+    background-color: cyan;
+    font-size: 1.5em;
+}
+img[src="https://via.placeholder.com/150"]{
+    border-radius: 10px;
+    border: 2px solid black;
 }
