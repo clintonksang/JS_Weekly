@@ -1,0 +1,6 @@
+.column >div {
+    background-color: cyan;
+    border: black solid 1px;
+    flex: 1;
+    
+}
